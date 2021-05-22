@@ -1,2 +1,2 @@
 # portfolio-arham
-Latihan membuat web portofolio (front end)
+Learn how to make web portofolio (front end)
